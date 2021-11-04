@@ -1,0 +1,12 @@
+Package: com.giangmodios.repo 
+Name: Free Fire
+Version: 1.0 
+Architecture: iphoneos-arm
+Description: HACK MOD GM
+Maintainer: Free Fire
+Author: Free Fire
+Section:Themes 
+Depends: com.giangmod.repo
+Filename: ./debs/Free Fire 1.66.0
+Size: 226,890
+MD5sum: 226a441fa417a2d492bbbcc92253
